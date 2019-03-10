@@ -1,0 +1,26 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "resources" : [
+    {
+      "filename" : "1000yen_face.arreferenceimage"
+    },
+    {
+      "filename" : "5000yen_face.arreferenceimage"
+    },
+    {
+      "filename" : "10000yen_face.arreferenceimage"
+    },
+    {
+      "filename" : "10000yen_face01.arreferenceimage"
+    },
+    {
+      "filename" : "10000yen_face02.arreferenceimage"
+    },
+    {
+      "filename" : "10000yen_face03.arreferenceimage"
+    }
+  ]
+}
