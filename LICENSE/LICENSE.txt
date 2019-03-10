@@ -1,1 +1,4 @@
 MIT
+
+cash-register.mp3 is under Creative Commons Attribution 3.0 Unported (CC BY 3.0).
+It is distributed at `https://freesound.org/s/201159/` .
